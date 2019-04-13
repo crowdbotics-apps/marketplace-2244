@@ -1,0 +1,3 @@
+rootProject.name = 'marketplace_2244'
+
+include ':app'
